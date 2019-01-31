@@ -1,5 +1,5 @@
 {
-	"name": "cakedc/migrations",
+	"name": "studioiq/migrations",
 	"description": "Migrations Plugin for CakePHP",
 	"type": "cakephp-plugin",
 	"keywords": ["cakephp","migrations"],
